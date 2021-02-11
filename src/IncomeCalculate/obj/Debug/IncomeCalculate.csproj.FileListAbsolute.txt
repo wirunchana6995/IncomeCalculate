@@ -1,0 +1,15 @@
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\bin\Debug\IncomeCalculate.exe.config
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\bin\Debug\IncomeCalculate.exe
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\bin\Debug\IncomeCalculate.pdb
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.csprojAssemblyReference.cache
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\MainWindow.g.cs
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\App.g.cs
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate_MarkupCompile.cache
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate_MarkupCompile.lref
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\MainWindow.baml
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.g.resources
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.Properties.Resources.resources
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.csproj.GenerateResource.cache
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.exe
+C:\Users\Wirunchana\Documents\GitHub\IncomeCalculate\src\IncomeCalculate\obj\Debug\IncomeCalculate.pdb
